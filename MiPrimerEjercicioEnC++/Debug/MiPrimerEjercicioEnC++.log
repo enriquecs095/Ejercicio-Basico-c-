@@ -1,0 +1,4 @@
+﻿  Main.cpp
+C:\Users\Enrique\source\repos\MiPrimerEjercicioEnC++\MiPrimerEjercicioEnC++\Main.cpp(48,11): warning C4244:  '=': conversión de 'double' a 'long'; posible pérdida de datos
+C:\Users\Enrique\source\repos\MiPrimerEjercicioEnC++\MiPrimerEjercicioEnC++\Main.cpp(41,9): warning C4101:  'numero': variable local sin referencia
+  MiPrimerEjercicioEnC++.vcxproj -> C:\Users\Enrique\source\repos\MiPrimerEjercicioEnC++\Debug\MiPrimerEjercicioEnC++.exe
